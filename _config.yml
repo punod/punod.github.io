@@ -1,2 +1,4 @@
 name: Brian Harris, Horrible Cop
 markdown: kramdown
+
+theme: jekyll-theme-midnight
